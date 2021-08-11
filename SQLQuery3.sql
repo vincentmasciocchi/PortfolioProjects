@@ -82,9 +82,9 @@ ORDER BY 2 DESC;
 
 Update Nashville_Housing
 Set SoldAsVacant = Case When SoldAsVacant = 'Y' Then 'Yes'
-						When SoldAsVacant = 'N' Then 'No'
-						ELSE SoldAsVacant
-				   End;
+	When SoldAsVacant = 'N' Then 'No'
+	ELSE SoldAsVacan
+End;
 
 -- Remove Duplicates
 
