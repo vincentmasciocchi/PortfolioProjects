@@ -1,1 +1,1 @@
-
+The Sakila MySQL database models a DVD rental store, featuring things like films, actors, film-actor relationships, and a central inventory table that connects films, stores, and rentals. The download and installation can be found on - https://dev.mysql.com/doc/sakila/en/.
